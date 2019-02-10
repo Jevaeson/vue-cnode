@@ -8,7 +8,7 @@
       </div>
       <div v-else>
         <input type='text' v-model='token' />
-        <button @click='login'>登录</button>
+        <button @click='login'>vue登录</button>
       </div>
     </div>
   </header>
